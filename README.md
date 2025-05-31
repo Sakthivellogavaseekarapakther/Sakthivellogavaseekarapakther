@@ -31,9 +31,9 @@
 
 ### 📈 GitHub Stats
 
-![Sakthivel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakthivel007&show_icons=true&theme=tokyonight)
+![Sakthivellogavaseekarapakther GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakthivellogavaseekarapakther&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakthivel007&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakthivellogavaseekarapakther&layout=compact&theme=tokyonight)
 
 ---
 
