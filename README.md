@@ -11,7 +11,7 @@
 - 🧠 Improving Data Structures & Algorithms problem-solving in Python  
 - 🗣️ Actively improving my communication and social skills  
 - 👨‍💻 Looking for a Python/Django Developer internship or job  
-- 🎯 Goal: Land an IT job and grow as a software developer  
+- 🎯 Goal: Land an IT job and grow as a software developer
 
 ---
 
