@@ -32,8 +32,8 @@
 ### 📈 GitHub Stats
 
 ![Sakthivellogavaseekarapakther GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakthivellogavaseekarapakther&show_icons=true&theme=tokyonight) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakthivellogavaseekarapakther&layout=compact&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakthivellogavaseekarapakther&layout=compact&theme=tokyonight)
 
 ---
 
